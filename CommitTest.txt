@@ -1,1 +1,2 @@
 test content for git tutorial
+1) first change in file from original
