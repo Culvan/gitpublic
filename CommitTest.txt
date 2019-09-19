@@ -6,4 +6,4 @@ git commit -m "changed commit test"
 this is a test
 2) second change simultaneous with other user
 3) Original user updates committest.txt file creating conflict - revised after git pull / git status / nano CommitTest.txt
-
+4) Welecome to the Git HUB.
