@@ -1,5 +1,9 @@
+
 test content for git tutorial
 1) first change in file from original
+git add CommitTest.txt
+git commit -m "changed commit test"
+this is a test
 2) second change simultaneous with other user
 3) Original user updates committest.txt file creating conflict - revised after git pull / git status / nano CommitTest.txt
 
